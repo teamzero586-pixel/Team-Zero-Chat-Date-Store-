@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "user_y03qb0obiwa",
+      "fullName": "Rana Usman",
+      "username": "@usman123",
+      "password": "$2b$10$DpFo7rMuuXxmsvl6eAg2c.wkRe0ReeUAF4dqjQMke7PP9hEgIkHzy",
+      "plainPassword": "1Q2w3e4@",
+      "bio": "Assalam-o-Alaikum! Main Team Zero Chat par hoon.",
+      "avatarUrl": "",
+      "statusPrivacy": "everyone",
+      "theme": "team-zero-green",
+      "lastSeen": "online",
+      "isBanned": false,
+      "createdAt": "2026-07-31T21:10:57.583Z"
+    },
+    {
+      "id": "user_4gjp3g1sau",
+      "fullName": "Rana Usman",
+      "username": "@usman098",
+      "password": "$2b$10$6B5sdIepPW93ORcIAHdt7.PFJ0foW6YYtKk6gM2E3kJKpbfdyIF4K",
+      "plainPassword": "1Q2w3e4@",
+      "bio": "Assalam-o-Alaikum! Main Team Zero Chat par hoon.",
+      "avatarUrl": "",
+      "statusPrivacy": "everyone",
+      "theme": "team-zero-green",
+      "lastSeen": "online",
+      "isBanned": false,
+      "createdAt": "2026-07-31T21:11:32.857Z"
+    },
+    {
+      "id": "user_idzlxlitpld",
+      "fullName": "Rana Usman",
+      "username": "@usman0123",
+      "password": "$2b$10$JgD0ZnAkM.wmSTBMcUMiAu0i0QBQHUjDO65JeUwY9.pRszdrnnhOu",
+      "plainPassword": "1Q2w3e4@",
+      "bio": "Assalam-o-Alaikum! Main Team Zero Chat par hoon.",
+      "avatarUrl": "",
+      "statusPrivacy": "everyone",
+      "theme": "team-zero-green",
+      "lastSeen": "online",
+      "isBanned": false,
+      "createdAt": "2026-07-31T21:11:42.717Z"
+    },
+    {
+      "id": "admin-usman586-1785533020890",
+      "username": "@usman586",
+      "fullName": "Admin Usman",
+      "password": "$2b$10$WTKxiGdGHXRwLQiHomjPe.rzuKkYibTV29iT0kimLkzD2Nj/A72S.",
+      "createdAt": "2026-07-31T21:23:40.890Z",
+      "role": "admin"
+    }
+  ],
+  "conversations": [],
+  "conversationMembers": [],
+  "messages": [],
+  "statuses": [],
+  "calls": [],
+  "blocks": [],
+  "reports": [],
+  "broadcasts": [],
+  "songs": [],
+  "feedback": [],
+  "typing": {},
+  "auditLogs": [
+    {
+      "id": "log-1785532691773",
+      "action": "USER_LOGIN",
+      "performedBy": "@usman0123",
+      "details": "User logged in (Fallback auth): Rana Usman",
+      "createdAt": "2026-07-31T21:18:11.773Z"
+    },
+    {
+      "id": "log-1785532302717",
+      "action": "USER_REGISTER",
+      "performedBy": "@usman0123",
+      "details": "Registered user: Rana Usman",
+      "createdAt": "2026-07-31T21:11:42.717Z"
+    },
+    {
+      "id": "log-1785532292857",
+      "action": "USER_REGISTER",
+      "performedBy": "@usman098",
+      "details": "Registered user: Rana Usman",
+      "createdAt": "2026-07-31T21:11:32.857Z"
+    },
+    {
+      "id": "log-1785532257584",
+      "action": "USER_REGISTER",
+      "performedBy": "@usman123",
+      "details": "Registered user: Rana Usman",
+      "createdAt": "2026-07-31T21:10:57.584Z"
+    }
+  ]
+}
