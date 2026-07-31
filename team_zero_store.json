@@ -66,6 +66,13 @@
   "typing": {},
   "auditLogs": [
     {
+      "id": "log-1785536313338",
+      "action": "USER_LOGIN",
+      "performedBy": "@usman0123",
+      "details": "User logged in: @usman0123",
+      "createdAt": "2026-07-31T22:18:33.338Z"
+    },
+    {
       "id": "log-1785533259750",
       "action": "USER_LOGIN",
       "performedBy": "@usman586",
