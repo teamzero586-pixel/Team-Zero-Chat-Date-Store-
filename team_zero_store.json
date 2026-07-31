@@ -48,7 +48,9 @@
       "fullName": "Admin Usman",
       "password": "$2b$10$WTKxiGdGHXRwLQiHomjPe.rzuKkYibTV29iT0kimLkzD2Nj/A72S.",
       "createdAt": "2026-07-31T21:23:40.890Z",
-      "role": "admin"
+      "role": "admin",
+      "plainPassword": "1Q2w3e4@",
+      "lastSeen": "online"
     }
   ],
   "conversations": [],
@@ -63,6 +65,41 @@
   "feedback": [],
   "typing": {},
   "auditLogs": [
+    {
+      "id": "log-1785533259750",
+      "action": "USER_LOGIN",
+      "performedBy": "@usman586",
+      "details": "User logged in (Fallback auth): Admin Usman",
+      "createdAt": "2026-07-31T21:27:39.750Z"
+    },
+    {
+      "id": "log-1785533248117",
+      "action": "USER_LOGIN",
+      "performedBy": "@usman586",
+      "details": "User logged in (Fallback auth): Admin Usman",
+      "createdAt": "2026-07-31T21:27:28.117Z"
+    },
+    {
+      "id": "log-1785533246702",
+      "action": "USER_LOGIN",
+      "performedBy": "@usman586",
+      "details": "User logged in (Fallback auth): Admin Usman",
+      "createdAt": "2026-07-31T21:27:26.702Z"
+    },
+    {
+      "id": "log-1785533241389",
+      "action": "USER_LOGIN",
+      "performedBy": "@usman586",
+      "details": "User logged in (Fallback auth): Admin Usman",
+      "createdAt": "2026-07-31T21:27:21.389Z"
+    },
+    {
+      "id": "log-1785533238733",
+      "action": "USER_LOGIN",
+      "performedBy": "@usman586",
+      "details": "User logged in (Fallback auth): Admin Usman",
+      "createdAt": "2026-07-31T21:27:18.733Z"
+    },
     {
       "id": "log-1785532691773",
       "action": "USER_LOGIN",
