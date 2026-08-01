@@ -119,6 +119,13 @@
   "typing": {},
   "auditLogs": [
     {
+      "id": "log-1785591493875",
+      "action": "MEDIA_UPLOAD",
+      "performedBy": "@testuser1",
+      "details": "Uploaded file: test_1785591493873.mp3",
+      "createdAt": "2026-08-01T13:38:13.875Z"
+    },
+    {
       "id": "log-1785589910714",
       "action": "CHAT_CREATE",
       "performedBy": "@usman0123",
