@@ -123,6 +123,13 @@
   "typing": {},
   "auditLogs": [
     {
+      "id": "log-1785592169903",
+      "action": "MEDIA_UPLOAD",
+      "performedBy": "@testuser1",
+      "details": "Uploaded file: test_1785592169902.mp3",
+      "createdAt": "2026-08-01T13:49:29.903Z"
+    },
+    {
       "id": "log-1785591493875",
       "action": "MEDIA_UPLOAD",
       "performedBy": "@testuser1",
