@@ -123,6 +123,13 @@
   "typing": {},
   "auditLogs": [
     {
+      "id": "log-1785593213896",
+      "action": "USER_LOGIN",
+      "performedBy": "@usman586",
+      "details": "User logged in: @usman586",
+      "createdAt": "2026-08-01T14:06:53.896Z"
+    },
+    {
       "id": "log-1785592169903",
       "action": "MEDIA_UPLOAD",
       "performedBy": "@testuser1",
