@@ -107,6 +107,10 @@
       ],
       "starredBy": [],
       "createdAt": "2026-08-01T13:34:57.313Z"
+    },
+    {
+      "text": "Hello World",
+      "id": "msg-test-1"
     }
   ],
   "statuses": [],
