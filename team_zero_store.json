@@ -55,7 +55,34 @@
   ],
   "conversations": [],
   "conversationMembers": [],
-  "messages": [],
+  "messages": [
+    {
+      "id": "msg-1785589847493-gwbg1qh6n",
+      "conversationId": "private_admin-usman586-1785533020890_user_idzlxlitpld",
+      "senderId": "user_idzlxlitpld",
+      "senderName": "Rana Usman",
+      "senderUsername": "@usman0123",
+      "text": "Hi ",
+      "type": "text",
+      "mediaUrl": "",
+      "isForwarded": false,
+      "isEdited": false,
+      "isViewOnce": false,
+      "isDeletedForEveryone": false,
+      "reactions": [],
+      "deliveredTo": [
+        "user_idzlxlitpld"
+      ],
+      "readBy": [
+        {
+          "userId": "user_idzlxlitpld",
+          "timestamp": 1785589847493
+        }
+      ],
+      "starredBy": [],
+      "createdAt": "2026-08-01T13:10:47.493Z"
+    }
+  ],
   "statuses": [],
   "calls": [],
   "blocks": [],
